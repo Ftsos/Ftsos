@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ftsos
-- 👀 I’m interested in Web Development, AI, Ts, Js, Java/Minecraft - Spigot, Pentesting
-- 🌱 I’m currently learning Java/Minecraft - Spigot, Ts, AI, Pentesting
+- 👀 I’m interested in Web Development, AI, Ts, Js, Java/Minecraft - Spigot, Pentesting, Php
+- 🌱 I’m currently learning Java/Minecraft - Spigot, Ts, AI, Pentesting, Php, Js
 - 📫 How to reach me: Make an issue in some of my repo, or send me feedback
 
 
